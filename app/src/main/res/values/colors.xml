@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- App Theme Colors -->
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorPrimaryVariant">#BB86FC</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorBackground">#F5F5F7</color>
+    <color name="colorCardBackground">#FFFFFF</color>
+    <color name="colorPrimaryText">#1F1F1F</color>
+    <color name="colorSecondaryText">#616161</color>
+    <color name="colorDivider">#E0E0E0</color>
+    <color name="colorError">#CF6679</color>
+    <color name="colorSuccess">#00C853</color>
+    
+    <!-- Dark Theme Colors -->
+    <color name="colorBackgroundDark">#121212</color>
+    <color name="colorCardBackgroundDark">#2D2D2D</color>
+    <color name="colorPrimaryTextDark">#E1E1E1</color>
+    <color name="colorSecondaryTextDark">#B0B0B0</color>
+</resources>

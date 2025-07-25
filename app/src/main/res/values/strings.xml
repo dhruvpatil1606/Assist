@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Text and Voice Assist</string>
+    
+    <!-- Common Strings -->
+    <string name="back">Back</string>
+    
+    <!-- Main Activity -->
+    <string name="app_subtitle">Your all-in-one voice and text solution</string>
+    
+    <!-- Text to Speech Module -->
+    <string name="text_to_speech">Text to Speech</string>
+    <string name="text_to_speech_description">Convert your text into natural speech</string>
+    <string name="enter_text">Enter Text</string>
+    <string name="text_hint">Type or paste your text here…</string>
+    <string name="language">Language</string>
+    <string name="speech_speed">Speech Speed</string>
+    <string name="slow">Slow</string>
+    <string name="normal">Normal</string>
+    <string name="fast">Fast</string>
+    <string name="speak_now">Speak Now</string>
+    <string name="enter_text_to_speak">Please enter text to speak</string>
+    <string name="tts_init_failed">Text to Speech initialization failed</string>
+    <string name="language_not_supported">This language is not supported</string>
+    
+    <!-- Speech to Text Module -->
+    <string name="speech_to_text">Speech to Text</string>
+    <string name="speech_to_text_description">Convert your voice into written text</string>
+    <string name="voice_recording">Voice Recording</string>
+    <string name="tap_to_start_recording">Tap the microphone button to start recording</string>
+    <string name="listening">Listening…</string>
+    <string name="recognition_result">Recognition Result</string>
+    <string name="clear_text">Clear Text</string>
+    <string name="speech_recognition_failed">Speech recognition failed</string>
+    <string name="speech_not_supported">Speech recognition not supported on this device</string>
+    <string name="speak_now_prompt">Speak now…</string>
+    
+    <!-- PDF Reader Module -->
+    <string name="pdf_reader">PDF Reader</string>
+    <string name="pdf_reader_description">Extract and read text from PDF files</string>
+    <string name="select_pdf_file">Select PDF File</string>
+    <string name="no_file_selected">No file selected</string>
+    <string name="browse">Browse</string>
+    <string name="extracted_text">Extracted Text</string>
+    <string name="read_text_aloud">Read Text Aloud</string>
+    <string name="no_text_to_read">No text to read</string>
+    <string name="error_extracting_text">Error extracting text: %1$s</string>
+    <string name="extracting_progress">Extracted %1$d of %2$d pages</string>
+    
+    <!-- Audio Extractor Module -->
+    <string name="audio_extractor">Audio Extractor</string>
+    <string name="audio_extractor_description">Extract text from audio files</string>
+    <string name="select_audio_file">Select Audio File</string>
+    <string name="audio_player">Audio Player</string>
+    <string name="extract_text">Extract Text</string>
+    <string name="processing_audio">Processing audio…</string>
+    <string name="text_extraction_completed">Text extraction completed</string>
+    <string name="select_audio_first">Please select an audio file first</string>
+    <string name="error_playing_audio">Error playing audio: %1$s</string>
+</resources>
